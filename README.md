@@ -14,9 +14,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## Overview
 
 ### Screenshot
-
-![](./images/Screenshot.png) Desktop 
-![](./images/screenshotMobile.png) Mobile
+Live - (https://qr-code-component-challenge-two.vercel.app/)
 
 ## My process
 
